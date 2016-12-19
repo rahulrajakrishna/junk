@@ -1,0 +1,18 @@
+<html>
+<head>
+</head>
+<body>
+<dev>
+<input value="C"/>
+<input value="D"/>
+</dev>
+<dev>
+<input value="E"/>
+<input value="F"/>
+</dev>
+<dev>
+<input value="G"/>
+<a href="https://www.google.com>LinkedText</a>
+</dev>
+</body>
+</html>
